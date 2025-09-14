@@ -169,9 +169,9 @@ const glosario = {
   79: "Inspiración en lo pasajero y experimental, proyectos que viven en el aquí y ahora.",
   80: "Proyecto que atrapa la atención y genera fascinación, como un movimiento o patrón del que no puedes apartar la mirada.",
   81: "Proyecto que transmite luz, energía positiva y vitalidad, capaz de iluminar e inspirar a quienes lo experimentan.",
-  82: "proyecto que nace de una lluvia de ideas, donde los 'puntos' son las ideas individuales o los temas principales que se derivan de un concepto central.",
+  82: "proyecto que nace de una lluvia de ideas, donde los puntos son las ideas individuales o los temas principales que se derivan de un concepto central.",
   83: "Idea que integra componentes electrónicos (sensores, microcontroladores) en objetos cotidianos",
-  84: "Proyecto que simboliza crecimiento, superación y progreso, inspirando a alcanzar nuevas alturas.",
+  84: "Proyecto que simboliza crecimiento, superación y progreso, inspirando a alcanzar nuevas alturas."
 
 };
 
